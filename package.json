@@ -1,0 +1,11 @@
+{
+  "name": "sass-loader",
+	"author": "Krzysztof Woliński",
+  "version": "1.0.0",
+	"devDependencies": {
+    "sass": "^1.16.1"
+  },
+  "scripts": {
+    "build": "sass --update --no-source-map ./src/main.scss:./dist/main.css && cp ./src/index.html ./dist/index.html"
+  }
+}
