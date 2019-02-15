@@ -1,4 +1,4 @@
-# Sass loader
+# Sass spinner
 
 Created by combining a few css animations and flex. It's just a small piece of code written on a Saturday morning in order to play around with *sass* a little bit. Feel free to modify and use it.
 
